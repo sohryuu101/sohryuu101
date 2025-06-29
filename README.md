@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm sohryuu 👋
 
 ## 🚀 About Me
 - 🍎 **iOS Developer** passionate about creating beautiful mobile experiences
