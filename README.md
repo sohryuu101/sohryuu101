@@ -2,7 +2,6 @@
 
 ## 🚀 About Me
 - 🍎 **Learn iOS Development**
-- 🌐 **Exploring Front-end Web Development** 
 - ☁️ Passionate on **Infrastructure roles** including Cloud and DevOps
 - 🛜 Learned basic TCP/IP, SDWAN, Routing (Basic Computer Networking)
 
